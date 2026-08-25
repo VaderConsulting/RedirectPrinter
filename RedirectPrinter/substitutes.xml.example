@@ -1,0 +1,16 @@
+<Substitutes>
+    <Printers>
+        <Printer>
+            <OldServer>server1</OldServer>
+            <OldQueue>queue1</OldQueue>
+            <NewServer>server2</NewServer>
+            <NewQueue>queue2</NewQueue>
+        </Printer>
+        <Printer>
+            <OldServer>oldprintserver</OldServer>
+            <OldQueue>*</OldQueue>
+            <NewServer>newprintserver</NewServer>
+            <NewQueue>*</NewQueue>
+        </Printer>
+    </Printers>
+</Substitutes>
