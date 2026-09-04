@@ -17,6 +17,10 @@ VB.NET WinForms utility (`RedirectPrinters`) that remaps a user's Windows printe
 
 Open `RedirectPrinters.sln` in Visual Studio 2008 or later. Copy `RedirectPrinter/substitutes.xml.example` to `substitutes.xml` beside the exe and fill in server/queue names before running.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 2.0
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `RedirectPrinter`). Assembly: RedirectPrinters, Empired Limited, Copyright 2008. Real printer-server names from the original mapping file were not imported; use the example XML.
