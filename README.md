@@ -25,7 +25,7 @@ Open `RedirectPrinters.sln` in Visual Studio 2008 or later. Copy `RedirectPrinte
 
 Working copy from my Historical Dev folder.
 
-From Dave Robinson's Historical Dev archive (OneDrive folder `RedirectPrinter`). Assembly: RedirectPrinters, Empired Limited, Copyright 2008. Real printer-server names from the original mapping file were not imported; use the example XML.
+From my Historical Dev archive (folder `RedirectPrinter`). Assembly: RedirectPrinters, Empired Limited, Copyright 2008. Real printer-server names from the original mapping file were not imported; use the example XML.
 
 ## License
 
