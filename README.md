@@ -29,4 +29,4 @@ From my Historical Dev archive (folder `RedirectPrinter`). Assembly: RedirectPri
 
 ## License
 
-MIT License. Copyright (c) 2026 VaderConsulting.
+MIT License. Copyright (c) 2026 Vader Consulting.
